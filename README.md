@@ -1,6 +1,6 @@
 # Python Code Practices Repository
 
-This repository contains a collection of myh Python code practices for learning and improving programming skills. 
+This repository contains a collection of my Python code practices for learning and improving programming skills. 
 
 ## Getting Started
 To get started with the Python code practices, simply clone the repository to your local machine using the following command:
