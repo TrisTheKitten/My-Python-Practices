@@ -6,7 +6,7 @@ This repository contains a collection of my Python code practices for learning a
 To get started with the Python code practices, simply clone the repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/....
+git clone https://github.com/TrisTheKitten/python.git
 ```
 
 ## Structure
